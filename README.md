@@ -6,7 +6,7 @@ I use GitHub mainly for working on personal projects, and writing down notes/cod
 Most of the time, I'm working on [TIL: Today I Learned](https://github.com/harplife/TIL).
 
 I'm all about improving lifestyle, like how to take notes efficiently.
-Do yourself a favor and look up __ZettelKasten__, and check out my [ZettelKasten](https://github.com/harplife/zettelkasten).
+Do yourself a favor and look up __ZettelKasten__, and then check out my [ZettelKasten](https://github.com/harplife/zettelkasten).
 But of course, the best thing to do would be to try it yourself!
 
 You may not find what you look for here 🤔
